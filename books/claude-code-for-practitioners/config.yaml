@@ -1,0 +1,18 @@
+title: "Claude Code for Practitioners"
+summary: "日本人医師が Claude Code で臨床外の個人インフラを自動化する設計論。安全層・skill 設計・運用パターンの 12 章。USMLE Step 1+2 取得医の視点で、Borderline からの逆転戦略にも触れる。"
+topics: ["claudecode", "anthropic", "ai", "skill", "usmle"]
+published: false
+price: 0
+chapters:
+  - ch01
+  - ch02
+  - ch03
+  - ch04
+  - ch05
+  - ch06
+  - ch07
+  - ch08
+  - ch09
+  - ch10
+  - ch11
+  - ch12
