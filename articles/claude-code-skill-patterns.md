@@ -193,6 +193,7 @@ CONFIRM_BEFORE_MOVE = true
 この規格で書いた 10 本(weekly-digest / notion-pusher / inbox-triage / folder-tidy / meeting-notes / content-drafter / page-watcher / kpi-logger / research-digest / scheduled-report)を、個人環境の値を抜いたサニタイズ版バンドルとして Gumroad で販売しています。本記事の folder-tidy はそのうちの 1 本です。
 
 - **Claude Skill Bundle: Productivity 10** — $49: https://claudeboost.gumroad.com/l/jkqahd
+- スキルでなく MCP サーバーを書く人向けには、本番パターン 7 本の **MCP Server Cookbook** — $29: https://claudeboost.gumroad.com/l/mcp-cookbook
 - 開発者向け 3 パック全部入り **The Complete Automation Studio** — $79: https://claudeboost.gumroad.com/l/studio
 
 無料側では、学術論文検索の MCP サーバ [scholar-mcp](https://github.com/kak4343/scholar-mcp)(npm: `@kak4343/scholar-mcp`)も公開しています。質問はコメント欄へどうぞ。
